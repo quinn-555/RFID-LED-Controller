@@ -1,0 +1,11 @@
+# Arduino build files
+build/
+*.elf
+*.hex
+*.bin
+
+# macOS files
+.DS_Store
+
+# VS Code local settings
+.vscode/
